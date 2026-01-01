@@ -1,4 +1,4 @@
-# 🧠 WebCraft AI – Intelligent Website Builder
+# 🧠 Weblify – Intelligent Website Builder
 <br/>
 WebCraft AI is a full-stack PERN-based AI website builder that enables users to design, generate, and customize complete websites using artificial intelligence through a modern and responsive web interface. Built with React.js, Node.js, Express.js, and PostgreSQL (Neon) and powered by Prisma ORM, OpenRouter AI, and Stripe payment integration, the application allows users to create AI-generated web projects, manage them efficiently, and unlock premium features through secure online payments.
 <br/>
